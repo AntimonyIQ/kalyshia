@@ -1,7 +1,7 @@
 export default class Eye {
     constructor(supabase) {
         this.supabase = supabase;
-        this.ipinfoToken = ''; // Replace with your actual IPinfo token
+        this.ipinfoToken = '10999aeaa9913a'; // 10999aeaa9913a
     }
 
     async ipinfo() {
